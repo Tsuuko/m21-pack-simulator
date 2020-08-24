@@ -1,0 +1,1334 @@
+{
+    "C": [
+        {
+            "name_jp": "レインジャーの悪知恵",
+            "name_en": "Ranger's Guile",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "噛み傷への興奮",
+            "name_en": "Furor of the Bitten",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "冥府の傷跡",
+            "name_en": "Infernal Scarring",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "うろつく光霊",
+            "name_en": "Roaming Ghostlight",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "確実な一撃",
+            "name_en": "Sure Strike",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "罠紡ぎ",
+            "name_en": "Snarespinner",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "炎血の野犬",
+            "name_en": "Igneous Cur",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "仮面の悪党",
+            "name_en": "Masked Blackguard",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "突き止め",
+            "name_en": "Track Down",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "テフェリーの徒弟",
+            "name_en": "Teferi's Protege",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "呪文喰いの奇魔",
+            "name_en": "Spellgorger Weird",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "血なまぐさい耽溺",
+            "name_en": "Sanguine Indulgence",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "秘本のアニマ",
+            "name_en": "Tome Anima",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "ルーンの壁",
+            "name_en": "Wall of Runes",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "節くれの賢者",
+            "name_en": "Gnarled Sage",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "忘れられた歩哨",
+            "name_en": "Forgotten Sentinel",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "墓所に潜むもの",
+            "name_en": "Crypt Lurker",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "チャンドラのマグムット",
+            "name_en": "Chandra's Magmutt",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "プリズマイト",
+            "name_en": "Prismite",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "落とし格子の蔦",
+            "name_en": "Portcullis Vine",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "破壊的細工",
+            "name_en": "Destructive Tampering",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "闇の掌握",
+            "name_en": "Grasp of Darkness",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "自然への回帰",
+            "name_en": "Return to Nature",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "潮読み",
+            "name_en": "Read the Tides",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "初心者の過ち",
+            "name_en": "Rookie Mistake",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "間に合わせの大隊",
+            "name_en": "Makeshift Battalion",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "光輝の泉",
+            "name_en": "Radiant Fountain",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "金屑化",
+            "name_en": "Turn to Slag",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "やんちゃな犬",
+            "name_en": "Rambunctious Mutt",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "トリュフ嗅ぎ",
+            "name_en": "Trufflesnout",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "焦熱の竜火",
+            "name_en": "Scorching Dragonfire",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "巨大な戦慄大口",
+            "name_en": "Colossal Dreadmaw",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "勇敢な駿馬",
+            "name_en": "Valorous Steed",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "高山の番犬",
+            "name_en": "Alpine Watchdog",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "村の儀式",
+            "name_en": "Village Rites",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "賽銭ガニ",
+            "name_en": "Wishcoin Crab",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "ガラクの血まみれ角",
+            "name_en": "Garruk's Gorehorn",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "取り消し",
+            "name_en": "Cancel",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "血の暴食",
+            "name_en": "Blood Glutton",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "大慌ての棚卸し",
+            "name_en": "Frantic Inventory",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "燃えさかる炎",
+            "name_en": "Burn Bright",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "死花のサリッド",
+            "name_en": "Deathbloom Thallid",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "人生は続く",
+            "name_en": "Life Goes On",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "厳しい滑空指導員",
+            "name_en": "Keen Glidemaster",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "夜明けの突撃獣",
+            "name_en": "Daybreak Charger",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "小剣",
+            "name_en": "Short Sword",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "異臭のインプ",
+            "name_en": "Fetid Imp",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "誇り猫",
+            "name_en": "Pridemalkin",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "北風の歌姫",
+            "name_en": "Mistral Singer",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "抵抗の妙技",
+            "name_en": "Feat of Resistance",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "巻き添え",
+            "name_en": "Run Afoul",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "ゴブリンの付け火屋",
+            "name_en": "Goblin Arsonist",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "セテッサ式訓練",
+            "name_en": "Setessan Training",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "高揚する書物",
+            "name_en": "Rousing Read",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "胸躍る可能性",
+            "name_en": "Thrill of Possibility",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "リリアナの使用人",
+            "name_en": "Liliana's Steward",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "砲塔のオーガ",
+            "name_en": "Turret Ogre",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "活力回復",
+            "name_en": "Revitalize",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "オナッケのオーガ",
+            "name_en": "Onakke Ogre",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "精神腐敗",
+            "name_en": "Mind Rot",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "現場保存",
+            "name_en": "Secure the Scene",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "ショック",
+            "name_en": "Shock",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "再命",
+            "name_en": "Rise Again",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "堅牢な盾仲間",
+            "name_en": "Staunch Shieldmate",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "骸骨射手",
+            "name_en": "Skeleton Archer",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "ヴォーデイリアの秘儀術師",
+            "name_en": "Vodalian Arcanist",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "錬金術師の贈り物",
+            "name_en": "Alchemist's Gift",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "捕獲球",
+            "name_en": "Capture Sphere",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "檻の中のゾンビ",
+            "name_en": "Caged Zombie",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "狩人の刃",
+            "name_en": "Hunter's Edge",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "霜のブレス",
+            "name_en": "Frost Breath",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "天界の処罰者",
+            "name_en": "Celestial Enforcer",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "ラノワールの幻想家",
+            "name_en": "Llanowar Visionary",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "書庫泥棒",
+            "name_en": "Library Larcenist",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "果敢な一撃",
+            "name_en": "Defiant Strike",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "静かな隠し矢",
+            "name_en": "Silent Dart",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "とどめの一撃",
+            "name_en": "Finishing Blow",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "選択",
+            "name_en": "Opt",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "強風の急襲者",
+            "name_en": "Gale Swooper",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "剣歯虎のやっかいもの",
+            "name_en": "Sabertooth Mauler",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "軍団の裁き",
+            "name_en": "Legion's Judgment",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "ゴブリンの魔術",
+            "name_en": "Goblin Wizardry",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "引きずり鬼",
+            "name_en": "Hobblefiend",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "剛力化",
+            "name_en": "Titanic Growth",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "有刺メガロドン",
+            "name_en": "Spined Megalodon",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "燃え投げの小悪魔",
+            "name_en": "Pitchburn Devils",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "うたた寝するティラノドン",
+            "name_en": "Drowsing Tyrannodon",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "素早い反応",
+            "name_en": "Swift Response",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "護法の要塞",
+            "name_en": "Warded Battlements",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "選定された聖歌員",
+            "name_en": "Anointed Chorister",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "歩く死骸",
+            "name_en": "Walking Corpse",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "バスリの侍祭",
+            "name_en": "Basri's Acolyte",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "骨穴の粗暴者",
+            "name_en": "Bone Pit Brute",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "協約のペガサス",
+            "name_en": "Concordia Pegasus",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "強迫",
+            "name_en": "Duress",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "気難しいディロフォサウルス",
+            "name_en": "Ornery Dilophosaur",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "高尚な否定",
+            "name_en": "Lofty Denial",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "叙爵",
+            "name_en": "Dub",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "突破",
+            "name_en": "Crash Through",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "空中走査器",
+            "name_en": "Skyscanner",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "憂鬱蒔き",
+            "name_en": "Gloom Sower",
+            "rarity": "C"
+        }
+    ],
+    "L": [
+        {
+            "name_jp": "山",
+            "name_en": "Mountain",
+            "rarity": "L"
+        },
+        {
+            "name_jp": "平地",
+            "name_en": "Plains",
+            "rarity": "L"
+        },
+        {
+            "name_jp": "森",
+            "name_en": "Forest",
+            "rarity": "L"
+        },
+        {
+            "name_jp": "島",
+            "name_en": "Island",
+            "rarity": "L"
+        },
+        {
+            "name_jp": "沼",
+            "name_en": "Swamp",
+            "rarity": "L"
+        }
+    ],
+    "M": [
+        {
+            "name_jp": "長老ガーガロス",
+            "name_en": "Elder Gargaroth",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "精霊龍、ウギン",
+            "name_en": "Ugin, the Spirit Dragon",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "解き放たれた者、ガラク",
+            "name_en": "Garruk, Unleashed",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "峰の恐怖",
+            "name_en": "Terror of the Peaks",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "虐殺のワーム",
+            "name_en": "Massacre Wurm",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "悪斬の天使",
+            "name_en": "Baneslayer Angel",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "彩色の宇宙儀",
+            "name_en": "Chromatic Orrery",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "焦熱の解放",
+            "name_en": "Fiery Emancipation",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "不気味な教示者",
+            "name_en": "Grim Tutor",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "外交官、マンガラ",
+            "name_en": "Mangara, the Diplomat",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "時の支配者、テフェリー",
+            "name_en": "Teferi, Master of Time",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "バスリ・ケト",
+            "name_en": "Basri Ket",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "炎の心、チャンドラ",
+            "name_en": "Chandra, Heart of Fire",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "死者を目覚めさせる者、リリアナ",
+            "name_en": "Liliana, Waker of the Dead",
+            "rarity": "M"
+        },
+        {
+            "name_jp": "不連続性",
+            "name_en": "Discontinuity",
+            "rarity": "M"
+        }
+    ],
+    "R": [
+        {
+            "name_jp": "栄光の頌歌",
+            "name_en": "Glorious Anthem",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "真実の視認",
+            "name_en": "See the Truth",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "異形化",
+            "name_en": "Transmogrify",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "群れを導くもの",
+            "name_en": "Pack Leader",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "嵐翼の精体",
+            "name_en": "Stormwing Entity",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "静寂の神殿",
+            "name_en": "Temple of Silence",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "深淵への覗き込み",
+            "name_en": "Peer into the Abyss",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "盗賊ギルドの処罰者",
+            "name_en": "Thieves' Guild Enforcer",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "トレイリアの大魔導師、バリン",
+            "name_en": "Barrin, Tolarian Archmage",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "バスリの副官",
+            "name_en": "Basri's Lieutenant",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "無作法な挑発者",
+            "name_en": "Brash Taunter",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "ムウォンヴーリーの世捨て人、ジョルレイル",
+            "name_en": "Jolrael, Mwonvuli Recluse",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "封じ込める僧侶",
+            "name_en": "Containment Priest",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "真面目な身代わり",
+            "name_en": "Solemn Simulacrum",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "複視",
+            "name_en": "Double Vision",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "灯狩人のマスティコア",
+            "name_en": "Sparkhunter Masticore",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "冠滅ぼしのガドラク",
+            "name_en": "Gadrak, the Crown-Scourge",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "悪意に満ちた者、ケアヴェク",
+            "name_en": "Kaervek, the Spiteful",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "漁る軟泥",
+            "name_en": "Scavenging Ooze",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "リリアナの軍旗手",
+            "name_en": "Liliana's Standard Bearer",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "胞子網の織り手",
+            "name_en": "Sporeweb Weaver",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "鎖霊",
+            "name_en": "Shacklegeist",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "天啓の神殿",
+            "name_en": "Temple of Epiphany",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "崇高な天啓",
+            "name_en": "Sublime Epiphany",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "一斉噴火",
+            "name_en": "Volcanic Salvo",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "凱旋の神殿",
+            "name_en": "Temple of Triumph",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "天界の語り部",
+            "name_en": "Speaker of the Heavens",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "タルジーディの隊商、スビラ",
+            "name_en": "Subira, Tulzidi Caravanner",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "猫の君主",
+            "name_en": "Feline Sovereign",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "ケルドの心胆、ラーダ",
+            "name_en": "Radha, Heart of Keld",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "英雄的介入",
+            "name_en": "Heroic Intervention",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "精神迷わせの秘本",
+            "name_en": "Mazemind Tome",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "忍耐の偶像",
+            "name_en": "Idol of Endurance",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "疾病の神殿",
+            "name_en": "Temple of Malady",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "迷える探求者、梓",
+            "name_en": "Azusa, Lost but Seeking",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "薄暮薔薇の棘、ヴィト",
+            "name_en": "Vito, Thorn of the Dusk Rose",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "万物の聖域",
+            "name_en": "Sanctum of All",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "ガラクの先触れ",
+            "name_en": "Garruk's Harbinger",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "悪魔の抱擁",
+            "name_en": "Demonic Embrace",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "人目を引く詮索者",
+            "name_en": "Conspicuous Snoop",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "原初の力",
+            "name_en": "Primal Might",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "追われる鯨",
+            "name_en": "Pursued Whale",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "鳥獣保護区",
+            "name_en": "Animal Sanctuary",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "頭巾様の荒廃牙",
+            "name_en": "Hooded Blightfang",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "寓話の小道",
+            "name_en": "Fabled Passage",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "九つの命",
+            "name_en": "Nine Lives",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "ルーンの光輪",
+            "name_en": "Runed Halo",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "神秘の神殿",
+            "name_en": "Temple of Mystery",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "屍呆症",
+            "name_en": "Necromentia",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "テフェリーの永遠の洞察",
+            "name_en": "Teferi's Ageless Insight",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "尊敬される語り手、ニアンビ",
+            "name_en": "Niambi, Esteemed Speaker",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "幽体のこそ泥",
+            "name_en": "Ghostly Pilferer",
+            "rarity": "R"
+        },
+        {
+            "name_jp": "チャンドラの焼却者",
+            "name_en": "Chandra's Incinerator",
+            "rarity": "R"
+        }
+    ],
+    "U": [
+        {
+            "name_jp": "大殺漢",
+            "name_en": "Goremand",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "啓示の雨",
+            "name_en": "Rain of Revelation",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "豊かな実りの聖域",
+            "name_en": "Sanctum of Fruitful Harvest",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "約束の光",
+            "name_en": "Light of Promise",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "騒乱の道化",
+            "name_en": "Havoc Jester",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "リリアナの信奉者",
+            "name_en": "Liliana's Devotee",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "溶岩噴火",
+            "name_en": "Volcanic Geyser",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "穏やかな光の聖域",
+            "name_en": "Sanctum of Tranquil Light",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "廃れた高地の聖域",
+            "name_en": "Sanctum of Shattered Heights",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "高山の犬師",
+            "name_en": "Alpine Houndmaster",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "梢の忍び寄り",
+            "name_en": "Canopy Stalker",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "包囲戦の打撃者",
+            "name_en": "Siege Striker",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "耽溺する貴族階級",
+            "name_en": "Indulging Patrician",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "鍛え抜かれた古参兵",
+            "name_en": "Tempered Veteran",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "偏執的な縫い師",
+            "name_en": "Obsessive Stitcher",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "エイヴンの鳥群使い",
+            "name_en": "Aven Gagglemaster",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "魔女の大釜",
+            "name_en": "Witch's Cauldron",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "天球の見張り",
+            "name_en": "Watcher of the Spheres",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "悪い取引",
+            "name_en": "Bad Deal",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "心酔させる掌握",
+            "name_en": "Enthralling Hold",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "ジェスカイの長老",
+            "name_en": "Jeskai Elder",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "取り除き",
+            "name_en": "Eliminate",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "唱え損ね",
+            "name_en": "Miscast",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "信仰の足枷",
+            "name_en": "Faith's Fetters",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "グリフィンの高楼",
+            "name_en": "Griffin Aerie",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "心火の供犠者",
+            "name_en": "Heartfire Immolator",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "動態の占い師",
+            "name_en": "Kinetic Augur",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "歴戦の神聖刃",
+            "name_en": "Seasoned Hallowblade",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "死に至る霞",
+            "name_en": "Pestilent Haze",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "議事会の導師",
+            "name_en": "Conclave Mentor",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "テフェリーの後見",
+            "name_en": "Teferi's Tutelage",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "銀打ちのグール",
+            "name_en": "Silversmote Ghoul",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "枝葉族の報復者",
+            "name_en": "Leafkin Avenger",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "非実体化",
+            "name_en": "Unsubstantiate",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "戦装飾のシャーマン",
+            "name_en": "Battle-Rattle Shaman",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "バスリの結束",
+            "name_en": "Basri's Solidarity",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "チャンドラの紅蓮獣",
+            "name_en": "Chandra's Pyreling",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "隼使いの達人",
+            "name_en": "Falconer Adept",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "トーモッドの墓所",
+            "name_en": "Tormod's Crypt",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "巻き直し",
+            "name_en": "Rewind",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "帆凧の掠め盗り",
+            "name_en": "Kitesail Freebooter",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "ヘルカイトの懲罰者",
+            "name_en": "Hellkite Punisher",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "打ち壊すブロントドン",
+            "name_en": "Thrashing Brontodon",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "難破船の探知者",
+            "name_en": "Shipwreck Dowser",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "森の守部",
+            "name_en": "Warden of the Woods",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "凶兆艦隊の戦争屋",
+            "name_en": "Dire Fleet Warmonger",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "潮掬い",
+            "name_en": "Tide Skimmer",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "耕作",
+            "name_en": "Cultivate",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "知識鱗のコアトル",
+            "name_en": "Lorescale Coatl",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "激情の共感者",
+            "name_en": "Fierce Empath",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "ヴリンの翼馬",
+            "name_en": "Vryn Wingmare",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "天使への昇天",
+            "name_en": "Angelic Ascension",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "雷光の猟犬",
+            "name_en": "Bolt Hound",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "金属複製機",
+            "name_en": "Chrome Replicator",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "隕石",
+            "name_en": "Meteorite",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "猛然たる顕現",
+            "name_en": "Furious Rise",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "謎変化",
+            "name_en": "Riddleform",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "スカイウェイの狙撃者",
+            "name_en": "Skyway Sniper",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "静かな水の聖域",
+            "name_en": "Sanctum of Calm Waters",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "裏切りの強欲",
+            "name_en": "Traitorous Greed",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "悪意の鎌",
+            "name_en": "Malefic Scythe",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "憤激解放",
+            "name_en": "Unleash Fury",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "野生林の災い魔",
+            "name_en": "Wildwood Scourge",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "節くれ拳の樫",
+            "name_en": "Burlfist Oak",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "無私の救助犬",
+            "name_en": "Selfless Savior",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "魂焦がし",
+            "name_en": "Soul Sear",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "石の牙の聖域",
+            "name_en": "Sanctum of Stone Fangs",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "実験的過負荷",
+            "name_en": "Experimental Overload",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "トレイリアのクラーケン",
+            "name_en": "Tolarian Kraken",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "酒場の詐取師",
+            "name_en": "Tavern Swindler",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "波起こし",
+            "name_en": "Waker of Waves",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "菌類の再誕",
+            "name_en": "Fungal Rebirth",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "双刃の暗殺者",
+            "name_en": "Twinblade Assassins",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "魔王の器",
+            "name_en": "Archfiend's Vessel",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "ガラクの蜂起",
+            "name_en": "Garruk's Uprising",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "墓碑のゴーレム",
+            "name_en": "Epitaph Golem",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "屍肉地虫",
+            "name_en": "Carrion Grub",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "活性化のうねり",
+            "name_en": "Invigorating Surge",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "パラジウムのマイア",
+            "name_en": "Palladium Myr",
+            "rarity": "U"
+        },
+        {
+            "name_jp": "クウィリーオンのドライアド",
+            "name_en": "Quirion Dryad",
+            "rarity": "U"
+        }
+    ],
+    "tap_in_gain_land": [
+        {
+            "name_jp": "平穏な入り江",
+            "name_en": "Tranquil Cove",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "陰鬱な僻地",
+            "name_en": "Dismal Backwater",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "血溜まりの洞窟",
+            "name_en": "Bloodfell Caves",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "岩だらけの高地",
+            "name_en": "Rugged Highlands",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "花咲く砂地",
+            "name_en": "Blossoming Sands",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "磨かれたやせ地",
+            "name_en": "Scoured Barrens",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "急流の崖",
+            "name_en": "Swiftwater Cliffs",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "ジャングルのうろ穴",
+            "name_en": "Jungle Hollow",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "風に削られた岩山",
+            "name_en": "Wind-Scarred Crag",
+            "rarity": "C"
+        },
+        {
+            "name_jp": "茨森の滝",
+            "name_en": "Thornwood Falls",
+            "rarity": "C"
+        }
+    ]
+}
