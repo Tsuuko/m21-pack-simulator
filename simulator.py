@@ -1,5 +1,6 @@
 import random
 import json
+from copy import copy
 
 # カードデータのパス
 CARD_LIST_PATH = "./card_list.json"
@@ -17,15 +18,15 @@ def get_card_list():
 def pick_mr(m: list, r: list) -> list:
     # 神話レアのカードはレアの1/8の確率で出現する
     if random.randint(1, 8) == 1:
-        return [random.choice(m)]
+        return [copy(random.choice(m))]
     else:
-        return [random.choice(r)]
+        return [copy(random.choice(r))]
 
 
 def pick(count: int, cards: list) -> list:
     picked = list()
     for i in range(count):
-        picked.append(random.choice(cards))
+        picked.append(copy(random.choice(cards)))
     return picked
 
 

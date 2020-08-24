@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == "POST":
-        result = simulator.run()
+        result = simulator.run(show_result=False)
         return render_template("index.html", result=result)
     else:
         return render_template("index.html", result=None)
